@@ -59,7 +59,7 @@ Download and install:
 
 ## 🎥 Code Walkthrough & Testing Video
 🔗 Google Drive link (shared access)
-
+[LiveStore Walkthrough](https://drive.google.com/file/d/1MjOENMLScgwgOWnhwbVne4plMkwE5uyY/view?usp=drivesdk)
 ---
 
 ## 🧑‍💻 Author
